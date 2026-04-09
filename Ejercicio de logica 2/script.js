@@ -7,3 +7,5 @@ let kelvin = celsius + 273.15;
 console.log("Temperatura en Fahrenheit: ", fahrenheit);
 console.log("Temperatura en Kelvin: ", kelvin);
 }
+
+calcularTemperatura();
